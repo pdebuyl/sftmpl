@@ -5,7 +5,7 @@ import sftmpl
 setup(name="sftmpl",
       version=sftmpl.__version__,
       description="Single file templater",
-      long_desc=open('README.rst', 'r').read(),
+      long_description=open('README.rst', 'r').read(),
       author=sftmpl.__author__,
       author_email="pdebuyl at sign pdebuyl dot be",
       license="BSD",
