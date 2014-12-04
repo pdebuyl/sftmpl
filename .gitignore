@@ -4,4 +4,7 @@
 *.a
 .DS_Store?
 
+/build
+/dist
+
 MANIFEST
