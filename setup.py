@@ -10,6 +10,16 @@ setup(name="sftmpl",
       author_email="pdebuyl at sign pdebuyl dot be",
       license="BSD",
       url="http://github.com/pdebuyl/sftmpl",
+      classifiers=[
+          'Development Status :: 4 - Beta',
+          'Environment :: Console',
+          'Intended Audience :: Science/Research',
+          'License :: OSI Approved :: BSD License',
+          'Operating System :: OS Independent',
+          'Programming Language :: Python :: 2.7',
+          'Programming Language :: Python :: 3',
+          'Topic :: Utilities',
+      ],
       packages=['sftmpl'],
       entry_points={
           'console_scripts': [
