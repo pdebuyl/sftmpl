@@ -25,8 +25,8 @@ be obtained via the command
 Use
 ---
 
-sftmpl uses the curly brace named fields defined in <PEP 3101
-`https://www.python.org/dev/peps/pep-3101/`>_
+sftmpl uses the curly brace named fields defined in `PEP 3101
+<https://www.python.org/dev/peps/pep-3101/>`_.
 
 For the following input file `myconfig.txt`, you must provide the command-line
 options `-N`, `--parameter` and `--N_steps`::
@@ -45,5 +45,3 @@ Misc
 ----
 
 Author: Pierre de Buyl
-
-
