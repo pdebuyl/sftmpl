@@ -10,7 +10,7 @@ method to replace the occurence of brace-enclosed variables by values given on
 the command-line.
 """
 
-__author__ = "Pierre de Buyl <@pdebuyl.be>"
+__author__ = "Pierre de Buyl <pdebuyl at sign pdebuyl.be>"
 __version__ = "0.1"
 
 
