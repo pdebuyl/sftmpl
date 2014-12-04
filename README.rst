@@ -39,7 +39,7 @@ options `-N`, `--parameter` and `--N_steps`::
 
 The invocation is as follows when sftmpl is installed
 
-    $ sftmpl myconfig.txt -N 10 --parameter 0.1 --N_steps 500
+    sftmpl myconfig.txt -N 10 --parameter 0.1 --N_steps 500
 
 and the following result is output to the standard output::
 
