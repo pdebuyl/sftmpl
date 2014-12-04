@@ -41,6 +41,14 @@ The invocation is as follows when sftmpl is installed
 
     $ sftmpl myconfig.txt -N 10 --parameter 0.1 --N_steps 500
 
+and the following result is output to the standard output::
+
+    # Config for "myprog"
+    N = 10
+    parameter = 0.1
+
+    run 500 steps
+
 Misc
 ----
 
