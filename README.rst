@@ -3,7 +3,7 @@ Single file templater
 =====================
 
 sftmpl takes a single file as input and uses the built-in string format method
-to replace the occurence of brace-enclosed variables by values given on the
+to replace the occurences of brace-enclosed variables by values given on the
 command-line.
 
 The aim of sftmpl is to simplify the generation of configuration file in
@@ -53,3 +53,5 @@ Misc
 ----
 
 Author: Pierre de Buyl
+
+License: Modified BSD (see `LICENSE`).
